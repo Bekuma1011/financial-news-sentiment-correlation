@@ -21,7 +21,6 @@ requests==2.32.3
 seaborn==0.13.2
 setuptools==80.9.0
 six==1.17.0
-TA-Lib
 tzdata==2025.2
 urllib3==2.4.0
 wheel==0.45.1
