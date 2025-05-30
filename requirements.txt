@@ -21,7 +21,7 @@ requests==2.32.3
 seaborn==0.13.2
 setuptools==80.9.0
 six==1.17.0
-TA-Lib @ file:///D:/TA_LIB_FILE/TA_Lib-0.4.28-cp312-cp312-win_amd64.whl#sha256=3c3db8e6661bc07aab7ed823d9d3796c9e2de0d581f109e4fcd59693fcc6e4b1
+TA-Lib
 tzdata==2025.2
 urllib3==2.4.0
 wheel==0.45.1
